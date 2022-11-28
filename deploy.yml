@@ -18,4 +18,4 @@ spec:
       - name: nginx
         image: krisdocker11/proj3
         ports:
-        - containerPort: 6443
+        - containerPort: 80
