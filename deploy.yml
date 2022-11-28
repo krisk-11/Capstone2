@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: krisdocker11/proj2
+        image: krisdocker11/proj3
         ports:
         - containerPort: 6443
